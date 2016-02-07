@@ -5,5 +5,5 @@ package 'emacs'
 package 'tree'
 package 'git'
 file '/etc/motd' do
-  content 'Property of Brian'
+  content 'Property of Brian Howard'
 end
